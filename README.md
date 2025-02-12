@@ -1,4 +1,5 @@
-<h2 align="left">Hi! Im Matty. Nice to meet yewww!! <33</h2>
+<h2 align="left">Hi! Im Matty. An aspiring Full-Stack Developer that likes to
+  generate bugs and melt down <33</h2>
 
 ###
 
@@ -8,6 +9,7 @@
 </div>
 
 ###
+# 💻 Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -55,4 +57,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-###
+
