@@ -7,7 +7,6 @@
 <p align="left">
   I'm currently open to collaborating in developing mobile / web applications !! Just hmu!
 </p>
----
 
 ## 📊 GitHub Stats  
 <div align="center">
