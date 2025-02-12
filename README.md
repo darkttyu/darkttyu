@@ -4,6 +4,9 @@
   Aspiring Full-Stack Developer who enjoys solving problems, debugging code, and continuously learning. Passionate about creating efficient and scalable applications while embracing the challenges of development. 🚀
 </p>
 
+<p align="left">
+  I'm currently open to collaborating in developing mobile / web applications !! Just hmu!
+</p>
 ---
 
 ## 📊 GitHub Stats  
