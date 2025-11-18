@@ -4,10 +4,6 @@
   Aspiring Full-Stack Developer who enjoys solving problems, debugging code, and continuously learning. Passionate about creating efficient and scalable applications while embracing the challenges of development. 🚀
 </p>
 
-<p align="left">
-  I'm currently open to collaborating in developing mobile / web applications !! Just hmu!
-</p>
-
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darkttyu&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="160" alt="GitHub Stats" />
