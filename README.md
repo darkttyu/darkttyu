@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi, I'm Matty! </h2>
 
 <p align="left">
-  Aspiring Full-Stack Developer who enjoys solving problems, debugging code, and continuously learning. Passionate about creating efficient and scalable applications while embracing the challenges of development. 🚀
+  Odoo ERP Developer with experience in customizing business applications, automating workflows, and developing scalable web solutions. Skilled in Python, PostgreSQL, and business process analysis, with a strong focus on delivering efficient, maintainable, and user-centric systems. Passionate about continuous learning and leveraging technology to solve real-world business challenges.
 </p>
 
 ## 📊 GitHub Stats  
